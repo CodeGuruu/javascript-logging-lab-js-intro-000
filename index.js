@@ -1,3 +1,3 @@
 console.error("MOHIT!")
 console.log('Janine')
-Console.warn("I would be a logger.")
+console.warn("I would be a logger.")
